@@ -1,2 +1,0 @@
-# TurismoReal
-Portafolio Turismo Real
